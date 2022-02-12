@@ -1,7 +1,10 @@
+# week 4
 # PracticalClassBuild
-Pre-quiz activity
+
 
 I am updating the readme. Connor
 
+Lauralbarracin-patch-1
 Just testing this file 
+
 
